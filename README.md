@@ -1,8 +1,6 @@
 # Wordify
 
-## Showcase
-
-
+![landing-page](https://github.com/TarasJan/wordify/blob/master/22.11.2020-Wordify demo.gif)
 
 ## About
 Wordify is an open source Excel Plugin that allows you to convert a numeric value to
@@ -13,7 +11,7 @@ The plugin currenty handles output in 7 languages with 7 currencies and values u
 The plugin adds two new methods to your Excel environment
 
 `WORDIFY(number)` - taking in the numeric value and converting it to the same value expressed in words
-`WORDIFYWITHLANGUAGEANGUNIT(number, lang, unit)` - allowing for conversion of the number to words in specific language with specific unit.
+`WORDIFYWITHLANGUAGEANDUNIT(number, lang, unit)` - allowing for conversion of the number to words in specific language with specific unit.
 
 ## Supported languages
 1. English [en]
