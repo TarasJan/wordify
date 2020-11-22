@@ -1,6 +1,6 @@
 # Wordify
 
-![landing-page](https://github.com/TarasJan/wordify/blob/master/22.11.2020-Wordify demo.gif)
+![landing-page](https://github.com/TarasJan/wordify/blob/master/22.11.2020-Wordify%20demo.gif)
 
 ## About
 Wordify is an open source Excel Plugin that allows you to convert a numeric value to
