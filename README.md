@@ -1,5 +1,7 @@
 # Wordify
 
+:warning: **The online server is no longer available**: If you would like to use the plugin contact the author.
+
 ![landing-page](https://github.com/TarasJan/wordify/blob/master/22.11.2020-Wordify%20demo.gif)
 
 ## About
